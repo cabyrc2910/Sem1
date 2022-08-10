@@ -1,4 +1,5 @@
-﻿Console.WriteLine("Введите первое чило:");
+﻿Console.Clear();
+Console.WriteLine("Введите первое чило:");
 int A = Convert.ToInt32(Console.ReadLine());
 
 Console.WriteLine("Введите второе число:");

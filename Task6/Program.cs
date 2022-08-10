@@ -1,4 +1,5 @@
-﻿Console.Write("Введите чило:");
+﻿Console.Clear();
+Console.Write("Введите чило:");
 int a = Convert.ToInt32(Console.ReadLine());
 if (a % 2==1)
 {

@@ -1,4 +1,5 @@
-﻿Console.WriteLine("Введите чило от 1 до 7:");
+﻿Console.Clear();
+Console.WriteLine("Введите чило от 1 до 7:");
 int numbera = Convert.ToInt32(Console.ReadLine());
 
 switch (numbera)
