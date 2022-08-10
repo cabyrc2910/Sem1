@@ -1,4 +1,7 @@
-﻿Console.Clear();
+﻿// Написать программу которая будет выдавать названия дня недели по заданному номеру.
+// Пример  3->среда  5->Пятница
+
+Console.Clear();
 Console.WriteLine("Введите чило от 1 до 7:");
 int numbera = Convert.ToInt32(Console.ReadLine());
 

@@ -1,4 +1,7 @@
-﻿Console.Write("Введите чило:");
+﻿//Написать программу, которая на вход принимает число и выдаёт его квадрат (число умноженное на само себя)
+//Пример  4->16  -3->9  -7->49
+
+Console.Write("Введите чило:");
 int number = Convert.ToInt32(Console.ReadLine());
 int square = number * number;
 Console.WriteLine(square);
