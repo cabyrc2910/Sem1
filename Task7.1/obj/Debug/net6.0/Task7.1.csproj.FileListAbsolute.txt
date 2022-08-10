@@ -1,0 +1,15 @@
+C:\Users\Иван\Desktop\GeekBrains\C#\Sem1\Task7.1\obj\Debug\net6.0\Task7.1.csproj.AssemblyReference.cache
+C:\Users\Иван\Desktop\GeekBrains\C#\Sem1\Task7.1\obj\Debug\net6.0\Task7.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Иван\Desktop\GeekBrains\C#\Sem1\Task7.1\obj\Debug\net6.0\Task7.1.AssemblyInfoInputs.cache
+C:\Users\Иван\Desktop\GeekBrains\C#\Sem1\Task7.1\obj\Debug\net6.0\Task7.1.AssemblyInfo.cs
+C:\Users\Иван\Desktop\GeekBrains\C#\Sem1\Task7.1\obj\Debug\net6.0\Task7.1.csproj.CoreCompileInputs.cache
+C:\Users\Иван\Desktop\GeekBrains\C#\Sem1\Task7.1\bin\Debug\net6.0\Task7.1.exe
+C:\Users\Иван\Desktop\GeekBrains\C#\Sem1\Task7.1\bin\Debug\net6.0\Task7.1.deps.json
+C:\Users\Иван\Desktop\GeekBrains\C#\Sem1\Task7.1\bin\Debug\net6.0\Task7.1.runtimeconfig.json
+C:\Users\Иван\Desktop\GeekBrains\C#\Sem1\Task7.1\bin\Debug\net6.0\Task7.1.dll
+C:\Users\Иван\Desktop\GeekBrains\C#\Sem1\Task7.1\bin\Debug\net6.0\Task7.1.pdb
+C:\Users\Иван\Desktop\GeekBrains\C#\Sem1\Task7.1\obj\Debug\net6.0\Task7.1.dll
+C:\Users\Иван\Desktop\GeekBrains\C#\Sem1\Task7.1\obj\Debug\net6.0\refint\Task7.1.dll
+C:\Users\Иван\Desktop\GeekBrains\C#\Sem1\Task7.1\obj\Debug\net6.0\Task7.1.pdb
+C:\Users\Иван\Desktop\GeekBrains\C#\Sem1\Task7.1\obj\Debug\net6.0\Task7.1.genruntimeconfig.cache
+C:\Users\Иван\Desktop\GeekBrains\C#\Sem1\Task7.1\obj\Debug\net6.0\ref\Task7.1.dll
