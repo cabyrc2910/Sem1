@@ -11,8 +11,8 @@ int B = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите третье число:");
 int C = Convert.ToInt32(Console.ReadLine());
 
-int max = A;
-if(A > max) max = A;
+int max = A;  // Присваиваем переменной max значение первого числа
+if(A > max) max = A;  // Это условие не нужно, т.к. захода в него не будет
 if(B > max) max = B;
 if(C > max) max = C;
 Console.Write ("max = ");

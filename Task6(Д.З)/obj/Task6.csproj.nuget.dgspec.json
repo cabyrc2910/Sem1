@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Иван\\Desktop\\GeekBrains\\C#\\Sem1\\Task6\\Task6.csproj": {}
+    "C:\\Users\\Иван\\Desktop\\GeekBrains\\C#\\Sem1\\Task6(Д.З)\\Task6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Иван\\Desktop\\GeekBrains\\C#\\Sem1\\Task6\\Task6.csproj": {
+    "C:\\Users\\Иван\\Desktop\\GeekBrains\\C#\\Sem1\\Task6(Д.З)\\Task6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Иван\\Desktop\\GeekBrains\\C#\\Sem1\\Task6\\Task6.csproj",
+        "projectUniqueName": "C:\\Users\\Иван\\Desktop\\GeekBrains\\C#\\Sem1\\Task6(Д.З)\\Task6.csproj",
         "projectName": "Task6",
-        "projectPath": "C:\\Users\\Иван\\Desktop\\GeekBrains\\C#\\Sem1\\Task6\\Task6.csproj",
+        "projectPath": "C:\\Users\\Иван\\Desktop\\GeekBrains\\C#\\Sem1\\Task6(Д.З)\\Task6.csproj",
         "packagesPath": "C:\\Users\\Иван\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Иван\\Desktop\\GeekBrains\\C#\\Sem1\\Task6\\obj\\",
+        "outputPath": "C:\\Users\\Иван\\Desktop\\GeekBrains\\C#\\Sem1\\Task6(Д.З)\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Иван\\AppData\\Roaming\\NuGet\\NuGet.Config"
