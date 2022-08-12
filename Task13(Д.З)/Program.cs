@@ -2,7 +2,16 @@
 // Пример  645->5  78-> третьей цифры нет  32679->6
 
 Console.Clear();
-Console.WriteLine("Введите число:");
+Console.Write ("Введите число:");
 int N = Convert.ToInt32(Console.ReadLine());
-int i = N/10%10;
-Console.WriteLine (i);
+N = Math.Abs(N);
+if (N < 100)
+{
+    Console.WriteLine ("У числа нет третьей цифры!");
+}
+else
+{
+    string s = Convert.ToString (N);
+    int third = int.Parse(s[2].ToString());
+    Console.WriteLine($"Третья цифра числа: {third}");
+}
