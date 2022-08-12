@@ -3,7 +3,7 @@
 
 Console.Clear();
 int number=new Random().Next(100,1000);
-Console.WriteLine($"Наше случайное число = {s}");
+Console.WriteLine($"Наше случайное число = {number}");
 string s = number.ToString();
 int first = int.Parse(s[0].ToString()); // Выбираем o элемент первое число
 int last = int.Parse(s[s.Length - 1].ToString()); // Выбираем последнее число
