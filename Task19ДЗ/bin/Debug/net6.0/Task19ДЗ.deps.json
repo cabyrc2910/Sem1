@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Task19ДЗ/1.0.0": {
+        "runtime": {
+          "Task19ДЗ.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task19ДЗ/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

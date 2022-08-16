@@ -9,7 +9,7 @@ if(quater >=1 && quater <= 4)
 {
     Console.WriteLine (arr[quater-1]);
 }
-else
+else 
 {
     Console.WriteLine ("Такой четверти нет");
 }
