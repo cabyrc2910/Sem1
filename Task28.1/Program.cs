@@ -11,14 +11,35 @@ for (int count = 0; count < i;)
     array[count] = Convert.ToInt32(Console.ReadLine());
     count ++;
 }
-int A = Cycle(array, 1);
-Console.WriteLine (A);
-int Cycle (int[] array, int i)
+//int A = Cycle(array, 1);
+//Console.WriteLine (A);
+int count1 = 0;
+int count2 = 1;
+int sum = 1;
+while (count1 < i)
 {
-    int sum = 1;
-    for (int count = 1; count <= array [i]; count++)
-    {
-        sum = sum*count;
-    }
-    return sum;
+ while (count2 <= array[count1])
+ {
+  sum = sum*count2;
+  count2++;
+ }
+ count1++;
+ Console.Write(sum);
+ Console.Write(" ");
+ sum = 1;
+ count2 = 1;
 }
+
+
+//int sum = 1;
+    //for (int count1 = 0; count1 < i; count1++)
+        
+       // for (int count = 1; count <= array [count1];)
+       // {
+       //     sum = sum*count;
+       //     count++;
+      //  }
+       // Console.WriteLine(sum);
+      //  return sum;
+
+

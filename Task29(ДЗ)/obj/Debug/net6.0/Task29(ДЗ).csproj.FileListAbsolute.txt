@@ -1,0 +1,15 @@
+C:\Users\Иван\Desktop\GeekBrains\C#\Sem1\Task29(ДЗ)\bin\Debug\net6.0\Task29(ДЗ).exe
+C:\Users\Иван\Desktop\GeekBrains\C#\Sem1\Task29(ДЗ)\bin\Debug\net6.0\Task29(ДЗ).deps.json
+C:\Users\Иван\Desktop\GeekBrains\C#\Sem1\Task29(ДЗ)\bin\Debug\net6.0\Task29(ДЗ).runtimeconfig.json
+C:\Users\Иван\Desktop\GeekBrains\C#\Sem1\Task29(ДЗ)\bin\Debug\net6.0\Task29(ДЗ).dll
+C:\Users\Иван\Desktop\GeekBrains\C#\Sem1\Task29(ДЗ)\bin\Debug\net6.0\Task29(ДЗ).pdb
+C:\Users\Иван\Desktop\GeekBrains\C#\Sem1\Task29(ДЗ)\obj\Debug\net6.0\Task29(ДЗ).csproj.AssemblyReference.cache
+C:\Users\Иван\Desktop\GeekBrains\C#\Sem1\Task29(ДЗ)\obj\Debug\net6.0\Task29(ДЗ).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Иван\Desktop\GeekBrains\C#\Sem1\Task29(ДЗ)\obj\Debug\net6.0\Task29(ДЗ).AssemblyInfoInputs.cache
+C:\Users\Иван\Desktop\GeekBrains\C#\Sem1\Task29(ДЗ)\obj\Debug\net6.0\Task29(ДЗ).AssemblyInfo.cs
+C:\Users\Иван\Desktop\GeekBrains\C#\Sem1\Task29(ДЗ)\obj\Debug\net6.0\Task29(ДЗ).csproj.CoreCompileInputs.cache
+C:\Users\Иван\Desktop\GeekBrains\C#\Sem1\Task29(ДЗ)\obj\Debug\net6.0\Task29(ДЗ).dll
+C:\Users\Иван\Desktop\GeekBrains\C#\Sem1\Task29(ДЗ)\obj\Debug\net6.0\refint\Task29(ДЗ).dll
+C:\Users\Иван\Desktop\GeekBrains\C#\Sem1\Task29(ДЗ)\obj\Debug\net6.0\Task29(ДЗ).pdb
+C:\Users\Иван\Desktop\GeekBrains\C#\Sem1\Task29(ДЗ)\obj\Debug\net6.0\Task29(ДЗ).genruntimeconfig.cache
+C:\Users\Иван\Desktop\GeekBrains\C#\Sem1\Task29(ДЗ)\obj\Debug\net6.0\ref\Task29(ДЗ).dll
