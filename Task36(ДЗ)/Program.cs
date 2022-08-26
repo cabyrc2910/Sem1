@@ -22,5 +22,3 @@ while (count <= i )
 }
 Console.Write("сумма нечетных элементов =");
 Console.Write(sum);
-
-
