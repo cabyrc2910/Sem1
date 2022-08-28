@@ -1,0 +1,15 @@
+C:\Users\Иван\Desktop\GeekBrains\C#\Sem1\Task43(ДЗ)\bin\Debug\net6.0\Task43(ДЗ).exe
+C:\Users\Иван\Desktop\GeekBrains\C#\Sem1\Task43(ДЗ)\bin\Debug\net6.0\Task43(ДЗ).deps.json
+C:\Users\Иван\Desktop\GeekBrains\C#\Sem1\Task43(ДЗ)\bin\Debug\net6.0\Task43(ДЗ).runtimeconfig.json
+C:\Users\Иван\Desktop\GeekBrains\C#\Sem1\Task43(ДЗ)\bin\Debug\net6.0\Task43(ДЗ).dll
+C:\Users\Иван\Desktop\GeekBrains\C#\Sem1\Task43(ДЗ)\bin\Debug\net6.0\Task43(ДЗ).pdb
+C:\Users\Иван\Desktop\GeekBrains\C#\Sem1\Task43(ДЗ)\obj\Debug\net6.0\Task43(ДЗ).csproj.AssemblyReference.cache
+C:\Users\Иван\Desktop\GeekBrains\C#\Sem1\Task43(ДЗ)\obj\Debug\net6.0\Task43(ДЗ).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Иван\Desktop\GeekBrains\C#\Sem1\Task43(ДЗ)\obj\Debug\net6.0\Task43(ДЗ).AssemblyInfoInputs.cache
+C:\Users\Иван\Desktop\GeekBrains\C#\Sem1\Task43(ДЗ)\obj\Debug\net6.0\Task43(ДЗ).AssemblyInfo.cs
+C:\Users\Иван\Desktop\GeekBrains\C#\Sem1\Task43(ДЗ)\obj\Debug\net6.0\Task43(ДЗ).csproj.CoreCompileInputs.cache
+C:\Users\Иван\Desktop\GeekBrains\C#\Sem1\Task43(ДЗ)\obj\Debug\net6.0\Task43(ДЗ).dll
+C:\Users\Иван\Desktop\GeekBrains\C#\Sem1\Task43(ДЗ)\obj\Debug\net6.0\refint\Task43(ДЗ).dll
+C:\Users\Иван\Desktop\GeekBrains\C#\Sem1\Task43(ДЗ)\obj\Debug\net6.0\Task43(ДЗ).pdb
+C:\Users\Иван\Desktop\GeekBrains\C#\Sem1\Task43(ДЗ)\obj\Debug\net6.0\Task43(ДЗ).genruntimeconfig.cache
+C:\Users\Иван\Desktop\GeekBrains\C#\Sem1\Task43(ДЗ)\obj\Debug\net6.0\ref\Task43(ДЗ).dll

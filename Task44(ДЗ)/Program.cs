@@ -3,3 +3,13 @@
 
 
 Console.Clear();
+Console.Write("Введите число N: ");
+int N = Convert.ToInt32(Console.ReadLine());
+int A = 0;
+int B = 1;
+for (int i = 0; i < N; i++)
+{
+    Console.Write(A + " ");
+    A = A + B;
+    B = A - B;
+}
