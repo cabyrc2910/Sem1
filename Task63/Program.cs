@@ -10,7 +10,8 @@ void Natural(int N)
         return;
     }
     Natural(N-1);
-    Console.WriteLine(N);
+    // Console.WriteLine(N);
+    Console.Write($"{N}, ");
     
 }
 

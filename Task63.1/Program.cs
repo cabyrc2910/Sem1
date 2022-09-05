@@ -13,7 +13,7 @@ void PrintNumbers(int number)
         return;
     }
     PrintNumbers(number - 1);
-     
+    Console.Write($"{number} ");
 
 }
 PrintNumbers(N);
