@@ -14,7 +14,6 @@ Console.Clear();
 Console.WriteLine("Введите двумерный массив m*n");
 Console.Write("\nВведите m -> ");
 int m = Convert.ToInt32(Console.ReadLine());
-
 Console.Write("Введите n -> ");
 int n = Convert.ToInt32(Console.ReadLine());
 
@@ -30,7 +29,6 @@ for (int i = 0; i < m; i++)
     Console.WriteLine();
 }
 Console.WriteLine("\n");
-
 void PrintMatrix(int[,] matrix)
 {
     for (int i = 0; i < matrix.GetLength(0); i++)
@@ -43,7 +41,6 @@ void PrintMatrix(int[,] matrix)
     }
 
 }
-
 void FindMinElement(int[,] matrix, ref int index1, ref int index2)
 {
     int min = matrix[0, 0];
@@ -65,7 +62,6 @@ void FindMinElement(int[,] matrix, ref int index1, ref int index2)
     Console.WriteLine($"Найдено минимальное значение в массиве -> {min}\n");
 
 }
-
 int[,] DeleteNewMatrix(int[,] matrix, int index1, int index2)
 {
     int[,] matrix1 = new int[matrix.GetLength(0) - 1, matrix.GetLength(1) - 1];
@@ -85,10 +81,8 @@ int[,] DeleteNewMatrix(int[,] matrix, int index1, int index2)
     }
     return matrix1;
 }
-
 int minI = 0;
 int minJ = 0;
-
 FindMinElement(matrix, ref minI, ref minJ);
 Console.WriteLine("Новый массив\n");
 //Console.Write(NewMatrix(matrix, minI, minJ));
