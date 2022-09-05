@@ -2,7 +2,7 @@
 // A = 3; B = 5 -> 243 (3⁵)
 // A = 2; B = 3 -> 8
 
-
+Console.Clear();
 double Stepen(double A, double B)
 {
     if (B == 1)

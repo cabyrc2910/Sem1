@@ -2,6 +2,7 @@
 // N = 5 -> "1, 2, 3, 4, 5"
 // N = 6 -> "1, 2, 3, 4, 5, 6"
 
+Console.Clear();
 void Natural(int N)
 {
     if (N == 0)
