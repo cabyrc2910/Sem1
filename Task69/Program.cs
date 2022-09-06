@@ -3,19 +3,17 @@
 // A = 2; B = 3 -> 8
 
 Console.Clear();
-double Stepen(double A, double B)
+double Stepen(double a, double b)
 {
-    if (B == 1)
+    if (b == 0)
     {
-        return B;
+        return b;
     }
-    Stepen(A, B - 1);
-    return Math.Pow(A, B);
+    Stepen(a, b - 1);
+    return Math.Pow(a, b);
 }
-
 Console.Write("Введите А: ");
-int A = Convert.ToInt32(Console.ReadLine());
+int a = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите B: ");
-int B = Convert.ToInt32(Console.ReadLine());
-
-Console.WriteLine(Stepen(A,B));
+int b = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine(Stepen(a,b));

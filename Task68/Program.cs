@@ -17,7 +17,6 @@ int AkkerMan(int m, int n)
         return AkkerMan(m - 1, AkkerMan(m, n - 1));   
     }
 }
-
 Console.Write("Введите m: ");
 int m = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите n: ");

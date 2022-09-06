@@ -1,0 +1,15 @@
+C:\Users\Иван\Desktop\GeekBrains\C#\Sem1\Task67\bin\Debug\net6.0\Task67.exe
+C:\Users\Иван\Desktop\GeekBrains\C#\Sem1\Task67\bin\Debug\net6.0\Task67.deps.json
+C:\Users\Иван\Desktop\GeekBrains\C#\Sem1\Task67\bin\Debug\net6.0\Task67.runtimeconfig.json
+C:\Users\Иван\Desktop\GeekBrains\C#\Sem1\Task67\bin\Debug\net6.0\Task67.dll
+C:\Users\Иван\Desktop\GeekBrains\C#\Sem1\Task67\bin\Debug\net6.0\Task67.pdb
+C:\Users\Иван\Desktop\GeekBrains\C#\Sem1\Task67\obj\Debug\net6.0\Task67.csproj.AssemblyReference.cache
+C:\Users\Иван\Desktop\GeekBrains\C#\Sem1\Task67\obj\Debug\net6.0\Task67.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Иван\Desktop\GeekBrains\C#\Sem1\Task67\obj\Debug\net6.0\Task67.AssemblyInfoInputs.cache
+C:\Users\Иван\Desktop\GeekBrains\C#\Sem1\Task67\obj\Debug\net6.0\Task67.AssemblyInfo.cs
+C:\Users\Иван\Desktop\GeekBrains\C#\Sem1\Task67\obj\Debug\net6.0\Task67.csproj.CoreCompileInputs.cache
+C:\Users\Иван\Desktop\GeekBrains\C#\Sem1\Task67\obj\Debug\net6.0\Task67.dll
+C:\Users\Иван\Desktop\GeekBrains\C#\Sem1\Task67\obj\Debug\net6.0\refint\Task67.dll
+C:\Users\Иван\Desktop\GeekBrains\C#\Sem1\Task67\obj\Debug\net6.0\Task67.pdb
+C:\Users\Иван\Desktop\GeekBrains\C#\Sem1\Task67\obj\Debug\net6.0\Task67.genruntimeconfig.cache
+C:\Users\Иван\Desktop\GeekBrains\C#\Sem1\Task67\obj\Debug\net6.0\ref\Task67.dll

@@ -3,17 +3,14 @@
 // 45 -> 9
 
 Console.Clear();
-Console.Write("Введите число A: ");
-int A = Convert.ToInt32(Console.ReadLine());
-
-int SumA(int A)
+Console.Write("Введите число: ");
+int n = Convert.ToInt32(Console.ReadLine());
+int sum(int n)
 {
-    if (A == 0)
+    if (n == 0)
     {
         return 0;
     }
-    return A % 10 + SumA(A / 10);
+    return n % 10 + sum(n / 10);
 }
-
-
-Console.WriteLine(SumA(A));
+Console.WriteLine(sum(n));

@@ -3,19 +3,25 @@
 // M = 4; N = 8 -> "4, 5, 6, 7, 8"
 
 Console.Clear();
-void Sequence (int n, int m)
-{
-    // if (n == m)
-    if (n < m)
-    {
-        return;
-    }
-    Sequence(n-1, m);
-    Console.Write($"{n}, ");
-}    
+
 Console.Write("Введите число M: ");
-int M = Convert.ToInt32(Console.ReadLine());
-Console.Write("Введите возрастающее число N: ");
-int N = Convert.ToInt32(Console.ReadLine());
-if (N < M) Console.Write("Неверно задана последовательность");
-else Sequence (N,M);
+int m = Convert.ToInt32(Console.ReadLine());
+Console.Write("Введите число N: ");
+int n = Convert.ToInt32(Console.ReadLine());
+if(n > m)
+{
+    PrintNumbers(m, n);
+}
+else
+{
+    PrintNumbers(n, m);
+}
+void PrintNumbers(int m, int n)
+{
+    if (n == m - 1)
+    {
+       return;
+    }
+    PrintNumbers(m, n - 1);
+    Console.Write($"{n}, ");
+}
