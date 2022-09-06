@@ -11,7 +11,7 @@ void Natural(int N)
     }
     Natural(N-1);
     // Console.WriteLine(N);
-    Console.Write($"{N}, ");
+     Console.Write($"{N}, ");
     
 }
 
